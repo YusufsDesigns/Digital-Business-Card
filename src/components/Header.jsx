@@ -10,10 +10,10 @@ export default function Header(){
                 <h2>Yusuf Lawal</h2>
                 <p>Frontend Developer</p>
                 <a href="https://yusuflawal.netlify.app">yusuflawal.netlify.app</a>
-                <button>
+                <a href="mailto: yusuf.olaoluwalawal@outlook.com" className='btn'>
                     <img src={EmailIcon} alt="" />
                     <span>Email</span>
-                </button>
+                </a>
             </div>
             
         </div>
