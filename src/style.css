@@ -9,7 +9,7 @@
 body{
   font-family: 'Inter';
   min-height: 100vh;
-  background: #23252C;
+  background: #545b74;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -108,8 +108,8 @@ body{
 }
 
 #header.light .content .btn{
-  background: #000000;
-  border: 1px solid #000;
+  background: #4a4a4a;
+  border: 1px solid #4a4a4a;
 }
 
 #header .content .btn span{
@@ -142,7 +142,7 @@ body{
 }
 
 #header.light .toggle-slider{
-  background: #000;
+  background: #4a4a4a;
   justify-content: flex-start;
 }
 

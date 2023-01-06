@@ -1,5 +1,5 @@
 import '../style.css'
-import CardImage from '../assets/pic2.jpg'
+import CardImage from '../assets/pic3.jpg'
 import EmailIcon from '../assets/Icon.png'
 
 export default function Header(props){
